@@ -1,0 +1,21 @@
+#banner {
+    background-color: lightblue;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    display: inline-block;
+    transform: scale(0.1);
+}
+
+.sottotitolo {
+    color: grey;
+}
+#booleaner {
+    color: aqua;
+}
+.nomefoto {
+    font-size: 12px;
+}
